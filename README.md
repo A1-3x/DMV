@@ -6,7 +6,7 @@
 |--------|----------|---------------|
 |  [Racial and Equity Impact Notes 2024](Racial_and_Equity_Impact_Notes_2024.csv)  |  [Maryland Open Data](https://opendata.maryland.gov/Demographic/Racial-and-Equity-Impact-Notes-2024/wtkm-87ja/about_data)  |  point in time data on Maryland inmates  |
 |  [District Court of Maryland Eviction Case Data](Maryland/District_Court_of_Maryland_Eviction_Case_Data.zip)  |  [Maryland Open Data](https://opendata.maryland.gov/Housing/District-Court-of-Maryland-Eviction-Case-Data/mvqb-b4hf/about_data)  |  Each row represents a Case Number in the Eviction Case Process  |
-|  Traffic Violations  |  [Maryland Open Data](https://data.montgomerycountymd.gov/Public-Safety/Traffic-Violations/4mse-ku6q/about_data)  |  updated daily, 43 variables  |
+|  Traffic Violations  |  [dataMontgomery](https://data.montgomerycountymd.gov/Public-Safety/Traffic-Violations/4mse-ku6q/about_data)  |  updated daily, 43 variables  |
 
 ### Compare Counties in Maryland
 
@@ -19,3 +19,12 @@
 |  [Transportation](compare_counties/Choose_Maryland___Compare_Counties_Transportation.csv)  |  [Maryland Open Data](https://opendata.maryland.gov/Transportation/Choose-Maryland-Compare-Counties-Transportation/ief7-i74z/about_data)  |  commute times and destinations  |
 |  [Geography](compare_counties/Choose_Maryland___Compare_Counties_Geography.csv)  |  [Maryland Open Data](https://opendata.maryland.gov/Energy-and-Environment/Choose-Maryland-Compare-Counties-Geography/mfac-nzpe/about_data)  |  Portrait of county land / land use - area, elevations, and shoreline  |
 |  [Total Migration 2001-2022](Maryland/compare_counties/Maryland_Total_Migration__2001-2022.csv)  |  [Maryland Open Data](https://opendata.maryland.gov/Demographic/Maryland-Total-Migration-2001-2022/3hb2-c6rg/about_data)  |  International and Domestic  |
+
+#### Montgomery County
+
+|  Name  |  Source  |  Description  |
+|--------|----------|---------------|
+|  Traffic Violations  |  [dataMontgomery](https://data.montgomerycountymd.gov/Public-Safety/Traffic-Violations/4mse-ku6q/about_data)  |  updated daily, 43 variables  |
+|  Police Use of Force  |  [dataMontgomery](https://data.montgomerycountymd.gov/Public-Safety/POL-Use-of-Force/9e9i-8tfp/about_data)  | updated daily, instances of force used by a police officer on a subject and/or force used by the subject on the police officer  |
+
+
