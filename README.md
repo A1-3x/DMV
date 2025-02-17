@@ -1,10 +1,12 @@
 # DC-Maryland-Virginia Datasets
 
+## Maryland
+
 |  Name  |  Source  |  Description  |
 |--------|----------|---------------|
 |  [Racial and Equity Impact Notes 2024](Racial_and_Equity_Impact_Notes_2024.csv)  |  [Maryland Open Data](https://opendata.maryland.gov/Demographic/Racial-and-Equity-Impact-Notes-2024/wtkm-87ja/about_data)  |  point in time data on Maryland inmates  |
 
-## Compare Counties
+### Compare Counties in Maryland
 
 |  Summary Of  |  Source  |  Description  |
 |--------|----------|---------------|
@@ -12,3 +14,4 @@
 |  [Taxes](compare_counties/Choose_Maryland___Compare_Counties_Taxes.csv)  |  [Maryland Open Data](https://opendata.maryland.gov/Business-and-Economy/Choose-Maryland-Compare-Counties-Taxes/9rx9-sduc/about_data)  |  income tax, property tax, exemptions, enterprise zones  |
 |  [Education](compare_counties/Choose_Maryland___Compare_Counties_Education.csv)  |  [Maryland Open Data](https://opendata.maryland.gov/Education/Choose-Maryland-Compare-Counties-Education/63pe-mygy/about_data)  |  K-12 and higher education - enrollment, graduates, expenditures, institutions  |
 |  [Demographics](compare_counties/Choose_Maryland___Compare_Counties_Demographics.csv)  |[Maryland Open Data](https://opendata.maryland.gov/Demographic/Choose-Maryland-Compare-Counties-Demographics/pa7d-u6hs/about_data)  |  Population profile - total, rate of change, age, and density  |
+|  [Transportation](compare_counties/Choose_Maryland___Compare_Counties_Transportation.csv)  |  [Maryland Open Data](https://opendata.maryland.gov/Transportation/Choose-Maryland-Compare-Counties-Transportation/ief7-i74z/about_data)  |  commute times and destinations  |
