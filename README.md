@@ -6,6 +6,7 @@
 |--------|----------|---------------|
 |  [Racial and Equity Impact Notes 2024](Racial_and_Equity_Impact_Notes_2024.csv)  |  [Maryland Open Data](https://opendata.maryland.gov/Demographic/Racial-and-Equity-Impact-Notes-2024/wtkm-87ja/about_data)  |  point in time data on Maryland inmates  |
 |  [District Court of Maryland Eviction Case Data](Maryland/District_Court_of_Maryland_Eviction_Case_Data.zip)  |  [Maryland Open Data](https://opendata.maryland.gov/Housing/District-Court-of-Maryland-Eviction-Case-Data/mvqb-b4hf/about_data)  |  Each row represents a Case Number in the Eviction Case Process  |
+|  Traffic Violations  |  [Maryland Open Data](https://data.montgomerycountymd.gov/Public-Safety/Traffic-Violations/4mse-ku6q/about_data)  |  updated daily, 43 variables  |
 
 ### Compare Counties in Maryland
 
