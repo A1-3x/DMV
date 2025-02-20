@@ -29,6 +29,7 @@
 |  Name  |  Source  |  Description  |  Updated  |
 |--------|----------|---------------|-----------|
 |  Surface Water Quality Data 1995 to June 2024  |  [Department of Public Works](https://data.baltimorecity.gov/datasets/85f6cd8c0a8646d6b13239c83df51f83/about)  |  results of two long-term routine monitoring programs at over 100 fixed sites; July 2024 to present found [here](https://data.baltimorecity.gov/datasets/03ea6e37570749829bca519dcc79cb08/about)  |  Historic  |
+|  Real Property Information  |  [Open Baltimore](https://data.baltimorecity.gov/datasets/baltimore::real-property-information-2/about)  |  [data dictionary](https://data.baltimorecity.gov/documents/17e4f1054a874677934885b1420621a5/about)  |  Unknown  |
 
 ### Montgomery County
 
