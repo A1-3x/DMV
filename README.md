@@ -25,7 +25,12 @@
 |  [Geography](compare_counties/Choose_Maryland___Compare_Counties_Geography.csv)  |  [Maryland Department of Commerce](https://opendata.maryland.gov/Energy-and-Environment/Choose-Maryland-Compare-Counties-Geography/mfac-nzpe/about_data)  |  Portrait of county land / land use - area, elevations, and shoreline  |
 |  [Total Migration 2001-2022](Maryland/compare_counties/Maryland_Total_Migration__2001-2022.csv)  |  [Maryland Department of Planning](https://opendata.maryland.gov/Demographic/Maryland-Total-Migration-2001-2022/3hb2-c6rg/about_data)  |  International and Domestic  |
 
-#### Montgomery County
+### Baltimore
+|  Name  |  Source  |  Description  |  Updated  |
+|--------|----------|---------------|-----------|
+|  Surface Water Quality Data 1995 to June 2024  |  [Department of Public Works](https://data.baltimorecity.gov/datasets/85f6cd8c0a8646d6b13239c83df51f83/about)  |  results of two long-term routine monitoring programs at over 100 fixed sites  |  Historic  |
+
+### Montgomery County
 
 |  Name  |  Source  |  Description  |  Updated  |
 |--------|----------|---------------|-----------|
