@@ -28,7 +28,7 @@
 ### Baltimore
 |  Name  |  Source  |  Description  |  Updated  |
 |--------|----------|---------------|-----------|
-|  Surface Water Quality Data 1995 to June 2024  |  [Department of Public Works](https://data.baltimorecity.gov/datasets/85f6cd8c0a8646d6b13239c83df51f83/about)  |  results of two long-term routine monitoring programs at over 100 fixed sites  |  Historic  |
+|  Surface Water Quality Data 1995 to June 2024  |  [Department of Public Works](https://data.baltimorecity.gov/datasets/85f6cd8c0a8646d6b13239c83df51f83/about)  |  results of two long-term routine monitoring programs at over 100 fixed sites; July 2024 to present found [here](https://data.baltimorecity.gov/datasets/03ea6e37570749829bca519dcc79cb08/about)  |  Historic  |
 
 ### Montgomery County
 
