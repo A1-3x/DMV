@@ -5,6 +5,7 @@
 |  Name  |  Source  |  Description  |  Updated  |
 |--------|----------|---------------|-----------|
 |  Street Tree Archive  |  [Urban Forestry Division](https://opendata.dc.gov/datasets/DCGIS::street-tree-archive/about)  |  annual changes in species composition and tree health from 2014 to present  |  annually  |
+|  Recreation Facilities  |  [Department of Parks and Recreation](https://opendata.dc.gov/datasets/DCGIS::recreation-facilities-1/about)  |  as needed  |
 
 ## Maryland
 
