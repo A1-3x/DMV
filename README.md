@@ -14,6 +14,7 @@
 |  [Racial and Equity Impact Notes 2024](Racial_and_Equity_Impact_Notes_2024.csv)  |  [Maryland Open Data](https://opendata.maryland.gov/Demographic/Racial-and-Equity-Impact-Notes-2024/wtkm-87ja/about_data)  |  point in time data on Maryland inmates  |
 |  [District Court of Maryland Eviction Case Data](Maryland/District_Court_of_Maryland_Eviction_Case_Data.zip)  |  [Maryland Open Data](https://opendata.maryland.gov/Housing/District-Court-of-Maryland-Eviction-Case-Data/mvqb-b4hf/about_data)  |  Each row represents a Case Number in the Eviction Case Process  |
 |  Racial and Equity Impact Notes 2024  |  [Maryland Open Data](https://opendata.maryland.gov/d/wtkm-87ja)  |  MD. Correctional Services Code § 3-207(a)(2) number of inmates and each inmate’s age, sex, race, place of birth and conviction, crime, and term of confinement  |
+|  Historic Oyster Plantings  |  [Maryland Open Data](https://opendata.maryland.gov/d/568g-bvh9)  |  Spatial file containing polygon information for oyster repletion activities conducted by Md. DNR between 1958 and 2022  |
 
 ### Compare Counties in Maryland
 
